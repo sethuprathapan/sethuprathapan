@@ -12,29 +12,25 @@
 </div>
 <h1 align="center">Hi 👋, I'm Sethu Prathapan</h1>
 <h3 align="center">A passionate Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">from India</h3>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-
-
-- 🤷‍♂️ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 - ⚡ Fun fact **I am funny😅**
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
+
  ---
 
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring New Technologies.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on LeetCode .
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![gmail Badge]([https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white](https://imgs.search.brave.com/7HVLPaNym-NEvD9cebyhJxVxUjxPXv6Aj2wR3P1nvFM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9nbWFpbC1p/Y29uLTUxMng1MTEt/ZmloNXhmYnAucG5n))](sethuprathapanmuthirayil@gmail.com)
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :
