@@ -1,5 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sethu-prathapan-a47563246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
+
+<a href="[https://www.youtube.com/c/simplified learner](https://leetcode.com/sethuprathapan/)" target="blank"><img align="center" src="https://imgs.search.brave.com/sH_RvQbDhmDKjq1BddxSkWgRBmvPQ7JogCHkwu07G2A/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8w/LzBhL0xlZXRDb2Rl/X0xvZ29fYmxhY2tf/d2l0aF90ZXh0LnN2/Zw.svg" alt="leetcode" height="30" width="40" /></a>
+</p>
  <div id="badges">
   <a href="https://www.linkedin.com/in/sethu-prathapan-a47563246/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,27 +15,25 @@
   
 </div>
 <h1 align="center">Hi 👋, I'm Sethu Prathapan</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Software Development</h3>
+### :man_technologist: About Me :I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
+
+- 🤷‍♂️ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 - ⚡ Fun fact **I am funny😅**
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-<h1>
-  Hi 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,I'm Sethu Prathapan
-</h1>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
  ---
 
-### :man_technologist: About Me :I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
