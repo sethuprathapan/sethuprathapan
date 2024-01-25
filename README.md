@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h3 align="left">Connect with me:</h3>
-<p align="left">
+  <h3 align="center">Connect with me</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/sethu-prathapan-a47563246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 
-<a href="[https://www.youtube.com/c/simplified learner](https://leetcode.com/sethuprathapan/)" target="blank"><img align="center" src="https://imgs.search.brave.com/sH_RvQbDhmDKjq1BddxSkWgRBmvPQ7JogCHkwu07G2A/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8w/LzBhL0xlZXRDb2Rl/X0xvZ29fYmxhY2tf/d2l0aF90ZXh0LnN2/Zw.svg" alt="leetcode" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/simplified learner](https://leetcode.com/sethuprathapan/)" target="blank"><img align="center" src="https://imgs.search.brave.com/sH_RvQbDhmDKjq1BddxSkWgRBmvPQ7JogCHkwu07G2A/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8w/LzBhL0xlZXRDb2Rl/X0xvZ29fYmxhY2tf/d2l0aF90ZXh0LnN2/Zw.svg" alt="leetcode" height="50" width="50" /></a>
 </p>
  <div id="badges">
   <a href="https://www.linkedin.com/in/sethu-prathapan-a47563246/">
